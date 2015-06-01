@@ -1,0 +1,7 @@
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\Module8_Assignment\Module8_Assignment\bin\Debug\Module8_Assignment.exe.config
+X:\Projects\Visual Studio\edX\DEV204x\Module8_Assignment\Module8_Assignment\bin\Debug\Module8_Assignment.exe.config
+X:\Projects\Visual Studio\edX\DEV204x\Module8_Assignment\Module8_Assignment\bin\Debug\Module8_Assignment.exe
+X:\Projects\Visual Studio\edX\DEV204x\Module8_Assignment\Module8_Assignment\bin\Debug\Module8_Assignment.pdb
+X:\Projects\Visual Studio\edX\DEV204x\Module8_Assignment\Module8_Assignment\obj\Debug\Module8_Assignment.csprojResolveAssemblyReference.cache
+X:\Projects\Visual Studio\edX\DEV204x\Module8_Assignment\Module8_Assignment\obj\Debug\Module8_Assignment.exe
+X:\Projects\Visual Studio\edX\DEV204x\Module8_Assignment\Module8_Assignment\obj\Debug\Module8_Assignment.pdb

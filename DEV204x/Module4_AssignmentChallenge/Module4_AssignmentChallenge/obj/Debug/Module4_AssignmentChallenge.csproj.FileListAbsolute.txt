@@ -1,0 +1,5 @@
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\Module4_AssignmentChallenge\Module4_AssignmentChallenge\bin\Debug\Module4_AssignmentChallenge.exe.config
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\Module4_AssignmentChallenge\Module4_AssignmentChallenge\bin\Debug\Module4_AssignmentChallenge.exe
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\Module4_AssignmentChallenge\Module4_AssignmentChallenge\bin\Debug\Module4_AssignmentChallenge.pdb
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\Module4_AssignmentChallenge\Module4_AssignmentChallenge\obj\Debug\Module4_AssignmentChallenge.exe
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\Module4_AssignmentChallenge\Module4_AssignmentChallenge\obj\Debug\Module4_AssignmentChallenge.pdb

@@ -1,0 +1,34 @@
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\OrderingOperators\OrderingOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\OrderingOperators\OrderingOperators\bin\Debug\OrderingOperators.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\OrderingOperators\OrderingOperators\bin\Debug\OrderingOperators.pdb
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\OrderingOperators\OrderingOperators\obj\x86\Debug\OrderingOperators.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\OrderingOperators\OrderingOperators\obj\x86\Debug\OrderingOperators.pdb
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\OrderingOperators\OrderingOperators\bin\Debug\Customers.xml
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\OrderingOperators\OrderingOperators\obj\x86\Debug\OrderingOperators.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\OrderingOperators\OrderingOperators\obj\x86\Debug\OrderingOperators.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\OrderingOperators\OrderingOperators\bin\Debug\Customers.xml
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\OrderingOperators\OrderingOperators\bin\Debug\OrderingOperators.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\OrderingOperators\OrderingOperators\bin\Debug\OrderingOperators.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\OrderingOperators\OrderingOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gerryo\Downloads\101 LINQ Samples\LINQ - Ordering Operators\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.exe
+C:\Users\gerryo\Downloads\101 LINQ Samples\LINQ - Ordering Operators\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.pdb
+C:\Users\gerryo\Documents\EdX Project\Demo Files\LINQ - Ordering Operators\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.exe
+C:\Users\gerryo\Documents\EdX Project\Demo Files\LINQ - Ordering Operators\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.pdb
+X:\Projects\Visual Studio\edX\DEV204x\LINQ - Ordering Operators\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.exe
+X:\Projects\Visual Studio\edX\DEV204x\LINQ - Ordering Operators\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.pdb
+X:\Projects\Visual Studio\edX\DEV204x\LINQ - Ordering Operators\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.csprojResolveAssemblyReference.cache
+X:\Projects\Visual Studio\edX\DEV204x\LINQ - Ordering Operators\C#\OrderingOperators\bin\Debug\Customers.xml
+X:\Projects\Visual Studio\edX\DEV204x\LINQ - Ordering Operators\C#\OrderingOperators\bin\Debug\OrderingOperators.exe
+X:\Projects\Visual Studio\edX\DEV204x\LINQ - Ordering Operators\C#\OrderingOperators\bin\Debug\OrderingOperators.pdb
+Y:\Projects\Visual Studio\edX\DEV204x\LINQ - Ordering Operators\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.exe
+Y:\Projects\Visual Studio\edX\DEV204x\LINQ - Ordering Operators\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.pdb
+Y:\Projects\Visual Studio\edX\DEV204x\LINQ - Ordering Operators\C#\OrderingOperators\bin\Debug\Customers.xml
+Y:\Projects\Visual Studio\edX\DEV204x\LINQ - Ordering Operators\C#\OrderingOperators\bin\Debug\OrderingOperators.exe
+Y:\Projects\Visual Studio\edX\DEV204x\LINQ - Ordering Operators\C#\OrderingOperators\bin\Debug\OrderingOperators.pdb
+Y:\Projects\Visual Studio\edX\DEV204x\LINQ - Ordering Operators\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.csprojResolveAssemblyReference.cache
+Y:\Projects\Visual Studio\edX\DEV204x\LINQ - Ordering Operators - Copy\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.exe
+Y:\Projects\Visual Studio\edX\DEV204x\LINQ - Ordering Operators - Copy\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.pdb
+Y:\Projects\Visual Studio\edX\DEV204x\LINQ - Ordering Operators - Copy\C#\OrderingOperators\bin\Debug\Customers.xml
+Y:\Projects\Visual Studio\edX\DEV204x\LINQ - Ordering Operators - Copy\C#\OrderingOperators\bin\Debug\OrderingOperators.exe
+Y:\Projects\Visual Studio\edX\DEV204x\LINQ - Ordering Operators - Copy\C#\OrderingOperators\bin\Debug\OrderingOperators.pdb
+Y:\Projects\Visual Studio\edX\DEV204x\LINQ - Ordering Operators - Copy\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.csprojResolveAssemblyReference.cache

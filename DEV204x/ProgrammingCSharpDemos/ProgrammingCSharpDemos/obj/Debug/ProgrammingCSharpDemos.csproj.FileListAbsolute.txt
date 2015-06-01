@@ -1,0 +1,10 @@
+c:\users\gerryo\documents\visual studio 2013\Projects\ProgrammingCSharpDemos\ProgrammingCSharpDemos\bin\Debug\ProgrammingCSharpDemos.exe.config
+c:\users\gerryo\documents\visual studio 2013\Projects\ProgrammingCSharpDemos\ProgrammingCSharpDemos\bin\Debug\ProgrammingCSharpDemos.exe
+c:\users\gerryo\documents\visual studio 2013\Projects\ProgrammingCSharpDemos\ProgrammingCSharpDemos\bin\Debug\ProgrammingCSharpDemos.pdb
+c:\users\gerryo\documents\visual studio 2013\Projects\ProgrammingCSharpDemos\ProgrammingCSharpDemos\obj\Debug\ProgrammingCSharpDemos.csprojResolveAssemblyReference.cache
+c:\users\gerryo\documents\visual studio 2013\Projects\ProgrammingCSharpDemos\ProgrammingCSharpDemos\obj\Debug\ProgrammingCSharpDemos.exe
+c:\users\gerryo\documents\visual studio 2013\Projects\ProgrammingCSharpDemos\ProgrammingCSharpDemos\obj\Debug\ProgrammingCSharpDemos.pdb
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\ProgrammingCSharpDemos\ProgrammingCSharpDemos\bin\Debug\ProgrammingCSharpDemos.exe.config
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\ProgrammingCSharpDemos\ProgrammingCSharpDemos\obj\Debug\ProgrammingCSharpDemos.exe
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\ProgrammingCSharpDemos\ProgrammingCSharpDemos\obj\Debug\ProgrammingCSharpDemos.pdb
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\ProgrammingCSharpDemos\ProgrammingCSharpDemos\obj\Debug\ProgrammingCSharpDemos.csprojResolveAssemblyReference.cache

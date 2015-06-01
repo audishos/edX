@@ -1,0 +1,6 @@
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\GarbageCollectionPractice\GarbageCollectionPractice\bin\Debug\GarbageCollectionPractice.exe.config
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\GarbageCollectionPractice\GarbageCollectionPractice\bin\Debug\GarbageCollectionPractice.exe
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\GarbageCollectionPractice\GarbageCollectionPractice\bin\Debug\GarbageCollectionPractice.pdb
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\GarbageCollectionPractice\GarbageCollectionPractice\obj\Debug\GarbageCollectionPractice.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\GarbageCollectionPractice\GarbageCollectionPractice\obj\Debug\GarbageCollectionPractice.exe
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\GarbageCollectionPractice\GarbageCollectionPractice\obj\Debug\GarbageCollectionPractice.pdb

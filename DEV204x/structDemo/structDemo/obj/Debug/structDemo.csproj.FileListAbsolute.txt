@@ -1,0 +1,6 @@
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\structDemo\structDemo\bin\Debug\structDemo.exe.config
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\structDemo\structDemo\bin\Debug\structDemo.exe
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\structDemo\structDemo\bin\Debug\structDemo.pdb
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\structDemo\structDemo\obj\Debug\structDemo.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\structDemo\structDemo\obj\Debug\structDemo.exe
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\structDemo\structDemo\obj\Debug\structDemo.pdb

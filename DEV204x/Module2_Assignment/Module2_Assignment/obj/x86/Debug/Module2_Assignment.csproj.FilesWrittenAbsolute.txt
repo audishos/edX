@@ -1,0 +1,5 @@
+/Users/audishosada/Dropbox/projects/Visual Studio/edX/DEV204x/Module2_Assignment/Module2_Assignment/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/audishosada/Dropbox/projects/Visual Studio/edX/DEV204x/Module2_Assignment/Module2_Assignment/bin/Debug/Module2_Assignment.exe.mdb
+/Users/audishosada/Dropbox/projects/Visual Studio/edX/DEV204x/Module2_Assignment/Module2_Assignment/bin/Debug/Module2_Assignment.exe
+/Users/audishosada/Dropbox/projects/Visual Studio/edX/DEV204x/Module2_Assignment/Module2_Assignment/obj/x86/Debug/Module2_Assignment.exe
+/Users/audishosada/Dropbox/projects/Visual Studio/edX/DEV204x/Module2_Assignment/Module2_Assignment/obj/x86/Debug/Module2_Assignment.exe.mdb

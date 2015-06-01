@@ -1,0 +1,6 @@
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\ArrayDemo\ArrayDemo\bin\Debug\ArrayDemo.exe.config
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\ArrayDemo\ArrayDemo\bin\Debug\ArrayDemo.exe
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\ArrayDemo\ArrayDemo\bin\Debug\ArrayDemo.pdb
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\ArrayDemo\ArrayDemo\obj\Debug\ArrayDemo.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\ArrayDemo\ArrayDemo\obj\Debug\ArrayDemo.exe
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\ArrayDemo\ArrayDemo\obj\Debug\ArrayDemo.pdb

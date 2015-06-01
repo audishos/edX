@@ -1,0 +1,29 @@
+C:\Users\gerryo\Documents\EdX Project\Demo Files\Mod_9_Homework\Mod_9_Homework\bin\Debug\Mod_9_Homework.exe.config
+C:\Users\gerryo\Documents\EdX Project\Demo Files\Mod_9_Homework\Mod_9_Homework\bin\Debug\Mod_9_Homework.exe
+C:\Users\gerryo\Documents\EdX Project\Demo Files\Mod_9_Homework\Mod_9_Homework\bin\Debug\Mod_9_Homework.pdb
+C:\Users\gerryo\Documents\EdX Project\Demo Files\Mod_9_Homework\Mod_9_Homework\obj\Debug\Mod_9_Homework.csprojResolveAssemblyReference.cache
+C:\Users\gerryo\Documents\EdX Project\Demo Files\Mod_9_Homework\Mod_9_Homework\obj\Debug\MainWindow.baml
+C:\Users\gerryo\Documents\EdX Project\Demo Files\Mod_9_Homework\Mod_9_Homework\obj\Debug\MainWindow.g.cs
+C:\Users\gerryo\Documents\EdX Project\Demo Files\Mod_9_Homework\Mod_9_Homework\obj\Debug\App.g.cs
+C:\Users\gerryo\Documents\EdX Project\Demo Files\Mod_9_Homework\Mod_9_Homework\obj\Debug\Mod_9_Homework_MarkupCompile.cache
+C:\Users\gerryo\Documents\EdX Project\Demo Files\Mod_9_Homework\Mod_9_Homework\obj\Debug\Mod_9_Homework.g.resources
+C:\Users\gerryo\Documents\EdX Project\Demo Files\Mod_9_Homework\Mod_9_Homework\obj\Debug\Mod_9_Homework.Properties.Resources.resources
+C:\Users\gerryo\Documents\EdX Project\Demo Files\Mod_9_Homework\Mod_9_Homework\obj\Debug\Mod_9_Homework.csproj.GenerateResource.Cache
+C:\Users\gerryo\Documents\EdX Project\Demo Files\Mod_9_Homework\Mod_9_Homework\obj\Debug\Mod_9_Homework.exe
+C:\Users\gerryo\Documents\EdX Project\Demo Files\Mod_9_Homework\Mod_9_Homework\obj\Debug\Mod_9_Homework.pdb
+C:\Users\gerry.GERSURF3\Downloads\Mod_9_Homework\Mod_9_Homework\Mod_9_Homework\bin\Debug\Mod_9_Homework.exe.config
+C:\Users\gerry.GERSURF3\Downloads\Mod_9_Homework\Mod_9_Homework\Mod_9_Homework\obj\Debug\Mod_9_Homework.exe
+C:\Users\gerry.GERSURF3\Downloads\Mod_9_Homework\Mod_9_Homework\Mod_9_Homework\obj\Debug\Mod_9_Homework.pdb
+X:\Projects\Visual Studio\edX\DEV204x\Mod_9_Homework\Mod_9_Homework\bin\Debug\Mod_9_Homework.exe.config
+X:\Projects\Visual Studio\edX\DEV204x\Mod_9_Homework\Mod_9_Homework\obj\Debug\Mod_9_Homework.exe
+X:\Projects\Visual Studio\edX\DEV204x\Mod_9_Homework\Mod_9_Homework\obj\Debug\Mod_9_Homework.pdb
+X:\Projects\Visual Studio\edX\DEV204x\Mod_9_Homework\Mod_9_Homework\bin\Debug\Mod_9_Homework.exe
+X:\Projects\Visual Studio\edX\DEV204x\Mod_9_Homework\Mod_9_Homework\bin\Debug\Mod_9_Homework.pdb
+X:\Projects\Visual Studio\edX\DEV204x\Mod_9_Homework\Mod_9_Homework\obj\Debug\Mod_9_Homework.csprojResolveAssemblyReference.cache
+X:\Projects\Visual Studio\edX\DEV204x\Mod_9_Homework\Mod_9_Homework\obj\Debug\MainWindow.baml
+X:\Projects\Visual Studio\edX\DEV204x\Mod_9_Homework\Mod_9_Homework\obj\Debug\MainWindow.g.cs
+X:\Projects\Visual Studio\edX\DEV204x\Mod_9_Homework\Mod_9_Homework\obj\Debug\App.g.cs
+X:\Projects\Visual Studio\edX\DEV204x\Mod_9_Homework\Mod_9_Homework\obj\Debug\Mod_9_Homework_MarkupCompile.cache
+X:\Projects\Visual Studio\edX\DEV204x\Mod_9_Homework\Mod_9_Homework\obj\Debug\Mod_9_Homework.g.resources
+X:\Projects\Visual Studio\edX\DEV204x\Mod_9_Homework\Mod_9_Homework\obj\Debug\Mod_9_Homework.Properties.Resources.resources
+X:\Projects\Visual Studio\edX\DEV204x\Mod_9_Homework\Mod_9_Homework\obj\Debug\Mod_9_Homework.csproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\Module6_Assignment\Module6_Assignment\bin\Debug\Module6_Assignment.exe.config
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\Module6_Assignment\Module6_Assignment\bin\Debug\Module6_Assignment.exe
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\Module6_Assignment\Module6_Assignment\bin\Debug\Module6_Assignment.pdb
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\Module6_Assignment\Module6_Assignment\obj\Debug\Module6_Assignment.exe
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\Module6_Assignment\Module6_Assignment\obj\Debug\Module6_Assignment.pdb

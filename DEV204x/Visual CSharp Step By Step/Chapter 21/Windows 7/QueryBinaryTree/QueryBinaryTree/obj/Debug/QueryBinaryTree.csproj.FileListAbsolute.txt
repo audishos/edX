@@ -1,0 +1,20 @@
+D:\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\bin\Debug\QueryBinaryTree.exe.config
+D:\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\bin\Debug\QueryBinaryTree.exe
+D:\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\bin\Debug\QueryBinaryTree.pdb
+D:\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\obj\Debug\QueryBinaryTree.csprojResolveAssemblyReference.cache
+D:\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\obj\Debug\QueryBinaryTree.exe
+D:\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\obj\Debug\QueryBinaryTree.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\bin\Debug\QueryBinaryTree.exe.config
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\obj\Debug\QueryBinaryTree.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\obj\Debug\QueryBinaryTree.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\bin\Debug\QueryBinaryTree.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\bin\Debug\QueryBinaryTree.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\obj\Debug\QueryBinaryTree.csprojResolveAssemblyReference.cache
+X:\Projects\Visual Studio\edX\DEV204x\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\bin\Debug\QueryBinaryTree.exe.config
+X:\Projects\Visual Studio\edX\DEV204x\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\obj\Debug\QueryBinaryTree.exe
+X:\Projects\Visual Studio\edX\DEV204x\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\obj\Debug\QueryBinaryTree.pdb
+X:\Projects\Visual Studio\edX\DEV204x\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\bin\Debug\QueryBinaryTree.exe
+X:\Projects\Visual Studio\edX\DEV204x\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\bin\Debug\QueryBinaryTree.pdb
+X:\Projects\Visual Studio\edX\DEV204x\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\bin\Debug\BinaryTree.dll
+X:\Projects\Visual Studio\edX\DEV204x\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\bin\Debug\BinaryTree.pdb
+X:\Projects\Visual Studio\edX\DEV204x\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree\QueryBinaryTree\obj\Debug\QueryBinaryTree.csprojResolveAssemblyReference.cache

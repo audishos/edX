@@ -1,0 +1,6 @@
+F:\User\Dropbox\Projects\Visual Studio\edX\DEV204x\Module1\Module1\bin\Debug\Module1.exe.config
+F:\User\Dropbox\Projects\Visual Studio\edX\DEV204x\Module1\Module1\bin\Debug\Module1.exe
+F:\User\Dropbox\Projects\Visual Studio\edX\DEV204x\Module1\Module1\bin\Debug\Module1.pdb
+F:\User\Dropbox\Projects\Visual Studio\edX\DEV204x\Module1\Module1\obj\Debug\Module1.csprojResolveAssemblyReference.cache
+F:\User\Dropbox\Projects\Visual Studio\edX\DEV204x\Module1\Module1\obj\Debug\Module1.exe
+F:\User\Dropbox\Projects\Visual Studio\edX\DEV204x\Module1\Module1\obj\Debug\Module1.pdb

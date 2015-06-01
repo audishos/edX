@@ -1,0 +1,6 @@
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\Assign4_Testing\Assign4_Testing\bin\Debug\Assign4_Testing.exe.config
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\Assign4_Testing\Assign4_Testing\bin\Debug\Assign4_Testing.exe
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\Assign4_Testing\Assign4_Testing\bin\Debug\Assign4_Testing.pdb
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\Assign4_Testing\Assign4_Testing\obj\Debug\Assign4_Testing.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\Assign4_Testing\Assign4_Testing\obj\Debug\Assign4_Testing.exe
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\Assign4_Testing\Assign4_Testing\obj\Debug\Assign4_Testing.pdb

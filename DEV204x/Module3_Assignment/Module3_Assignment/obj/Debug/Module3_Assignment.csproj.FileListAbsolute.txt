@@ -1,0 +1,6 @@
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\Module3_Assignment\Module3_Assignment\bin\Debug\Module3_Assignment.exe.config
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\Module3_Assignment\Module3_Assignment\bin\Debug\Module3_Assignment.exe
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\Module3_Assignment\Module3_Assignment\bin\Debug\Module3_Assignment.pdb
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\Module3_Assignment\Module3_Assignment\obj\Debug\Module3_Assignment.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\Module3_Assignment\Module3_Assignment\obj\Debug\Module3_Assignment.exe
+\\psf\Dropbox\Projects\Visual Studio\edX\DEV204x\Module3_Assignment\Module3_Assignment\obj\Debug\Module3_Assignment.pdb
